@@ -1,0 +1,30 @@
+{
+    "owners": ["684444122609614865", "708444548841603102"],
+    "administrators": ["UserID", "UserID", "UserID"],
+    "token": "process.env.TOKEN",
+    "prefix": "?",
+    "auddKey": "85c082b88b51216ac4e12a7d4a755f1c",
+    "googleKey": "AIzaSyB_JUGSezD5QnFutCmZX4Dk_v_6R_TIQDg",
+    "googlekey": "AIzaSyDT81wm2xadFC6OfjV0KqYTbOpqoKJp_-c",
+    "clientID_Auth": "895704714518335528",
+    "clientSecret_Auth": "8h5yJ6uCOEY7Xe2HY53n9xvOyDB79tq9",
+    "callbackURL_Auth": "https://discord.gg/js7gmb8Gbw",
+    "dbl_apikey": "Your Discord Bot List API Token",
+    "websitehostname": "https://kehlanmetor.github.io/website_official",
+    "websiteport": "80",
+    "keychannel": "894903256038408212",
+    "db": {
+        "user": "Kehlan",
+		"password": "skinnyfdp1",
+		"host": "mongodb+srv://KehlanMetor:skinnyfdp1@bot-discord.zbg8s.mongodb.net/Discord2",
+		"port": "27017"
+    },
+    "dblAuthorization": "Autorization Code for API verification",
+    "botMainDiscordServer": "661610891300569110",
+    "log_channels": {
+	    "logs": "894903256038408212",
+	    "warnings": "894903256038408212",
+	    "errors": "894903256038408212"
+    },
+    "NODE_ENV": "production"
+}
